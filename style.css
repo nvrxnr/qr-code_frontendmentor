@@ -1,0 +1,32 @@
+body {
+    box-sizing: border-box;
+    background-color: #d6e2f0;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+div, img {
+    max-width: 250px;    
+    border-radius: 15px;
+}
+
+div {
+    background-color: #ffffff;
+    padding: 12px;
+    margin: 10% auto;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #1f3251;
+    font-weight: 700;    
+    font-size: 1.2rem;
+}
+
+p{
+    color: #7b879d;    
+}
